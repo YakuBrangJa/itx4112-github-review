@@ -23,7 +23,7 @@ campus, depending on whether you need quiet, coffee, or a group table.
 
 ## 3. Tips for Group Study
 - **Split the work early**: give each person one section on day one
-- **Set a check-in time**: meet for 10 minutes every two days
+- **Set a check-in time**: meet for 15 minutes every two days
 
 ---
 
