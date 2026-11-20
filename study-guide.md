@@ -18,10 +18,12 @@ campus, depending on whether you need quiet, coffee, or a group table.
 - **Faculty lounge corner**: small and quiet, good for short sessions
 
 ## 2. Cafés Near Campus
-_TODO: List 2–3 cafés good for studying. (Issue #2)_
+- **Corner Café**: quiet in the morning, free Wi-Fi
+- **24-hour coffee shop**: good for late-night exam prep
 
 ## 3. Tips for Group Study
-_TODO: To be written after both sections are merged._
+- **Split the work early**: give each person one section on day one
+- **Set a check-in time**: meet for 10 minutes every two days
 
 ---
 
